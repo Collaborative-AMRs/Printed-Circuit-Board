@@ -1,0 +1,24 @@
+Move Component(s) Origin to Grid
+Filename     : D:\Altium Project\PCBV1\greeko.PcbDoc
+Date         : 07-04-2021
+Time         : 8.24.07 PM
+Time Elapsed : 00:00:00
+
+
+    SIP Component MD3-Header 6 (2.6mm,-4.7mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component MD2-Header 6 (66.3mm,-16.87mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component MD1-Header 6 (-67.8mm,-13.63mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P6-Header 3 (99.1mm,-56.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P5-Header 3 (94.8mm,-56.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P4-Header 3 (90.4mm,-56.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P3-Header 3 (86.1mm,-56.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P2-Header 3 (81.8mm,-56.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P1-Header 3 (77.7mm,-56.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component M3-MPU6050 (-8.46mm,-9.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component M1-SparkFun Motor Driver - Dual TB6612FNG (1A) (52.2mm,-16.33mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component U2-DC DC 360 Mini Buck converter (47.2mm,-54.94mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component U1-DC DC 360 Mini Buck converter (-35.3mm,-55.04mm) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component M2-SparkFun Motor Driver - Dual TB6612FNG (1A) (-27.8mm,-14.63mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component CON1-XT60 (-55.2mm,-32.8mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component A1-ADA3708 (0mm,-37.03mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 16

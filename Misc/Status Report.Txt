@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCBV1.PrjPcb]
+   Generated File[greeko.GTO]
+   Generated File[greeko.GTP]
+   Generated File[greeko.GTS]
+   Generated File[greeko.GTL]
+   Generated File[greeko.GBL]
+   Generated File[greeko.GBS]
+   Generated File[greeko.GBP]
+   Generated File[greeko.GBO]
+   Generated File[greeko.GM1]
+   Generated File[greeko.GM2]
+   Generated File[greeko.GM3]
+   Generated File[greeko.GM7]
+   Generated File[greeko.GM13]
+   Generated File[greeko.GM15]
+   Generated File[greeko.GKO]
+   Generated File[greeko.GPT]
+   Generated File[greeko.GPB]
+   Generated File[greeko.GD1]
+   Generated File[greeko.GG1]
+   Generated File[greeko.RUL]
+   Generated File[greeko.EXTREP]
+   Generated File[greeko.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 4:50:41 PM On 4/15/2021
